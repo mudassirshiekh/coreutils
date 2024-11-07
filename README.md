@@ -7,6 +7,7 @@
 ![uutils logo](docs/src/logo.svg)
 
 # uutils coreutils
+#By Mudassir Alam
 
 [![Crates.io](https://img.shields.io/crates/v/coreutils.svg)](https://crates.io/crates/coreutils)
 [![Discord](https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat)](https://discord.gg/wQVJbvJ)
